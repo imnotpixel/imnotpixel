@@ -22,12 +22,11 @@ Opening the jar that my mom struggled to open.
 System.out.printf("Goals?"); // Do I seriously have any?
 ``` 
 
-As of right now, my only goal is to do well on my Matura exams.
-
 I'm hoping to be able to put to good use my knowledge of programming and chemistry. Who knows, maybe an interesting project might come up one day!
 
 ```js
 console.log("Current projects.");
 ``` 
 
+VRChat MIDI visualiser for avatars, including a setup wizard.
 Interactive VRChat astronomy world, which will be published in the **near future**.
