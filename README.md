@@ -4,7 +4,7 @@
 print("Hello, world!") # Greetings!
 ``` 
 
-My name is Alex, also known as imnotpixel on the web. I'm deeply in love with chemistry (especially organic) and hopefully by next year I'll start a Bachelor's degree programme at the ETH Zurich.
+My name is Alex, also known as imnotpixel on the web. I'm deeply in love with chemistry (especially organic) and I'm pursuing a degree in Interdisciplinary Sciences at ETH Zurich.
 
 ```c++
 std::cout << "Short programming biography." << std::endl; // Yeah, 'nuff said.
